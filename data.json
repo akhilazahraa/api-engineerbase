@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "nama_prodi": "Teknik Sipil",
+        "tahun_berdiri": "1958",
+        "description": "Jurusan Teknik Sipil adalah jurusan yang pertama di Fakultas Teknik Universitas Diponegoro dengan dosen tetap pertama adalah Prof. Ir. Sujanto Budiharso. Perkuliahan dilakukan pada sore hari meminjam sebuah gedung di sebelah barat Tugu Muda (saat ini menjadi gedung Wisma Perdamaian), kemudian pindah di Jl. MT. Haryono (dulu Jl. Mataram) No. 427 dengan menempati gedung milik Pelaksana Kuasa Perang (Pekuper) Tentara dan Teritorium IV, sebagai kampusnya.",
+        "nama_himpunan": "Himpunan Mahasiswa Sipil (HMS)",
+        "images": "",
+        "akreditasi": "Unggul"
+    },
+    {
+        "id": 2,
+        "nama_prodi": "Arsitektur",
+        "tahun_berdiri": "1958",
+        "description": "Jurusan Teknik Arsitektur di Fakultas Teknik UNDIP dirancang untuk menghasilkan lulusan yang kreatif dan inovatif dalam merancang bangunan dan lingkungan. Sejak berdiri, jurusan Teknik Arsitektur telah menekankan pada pendekatan yang menggabungkan estetika dan fungsi dengan pemahaman mendalam tentang lingkungan dan budaya lokal. Berlokasi di Kampus UNDIP Tembalang, Teknik Arsitektur menyediakan berbagai fasilitas studio dan laboratorium yang mendukung pembelajaran secara praktikal.",
+        "nama_himpunan": "HM Arsitektur Amoghasida",
+        "images": "",
+        "akreditasi": "Unggul"
+    },
+    {
+        "id": 3,
+        "nama_prodi": "Teknik Kimia",
+        "tahun_berdiri": "1956",
+        "description": "Teknik Kimia UNDIP merupakan salah satu jurusan unggulan yang fokus pada proses industri kimia, baik dari skala laboratorium hingga skala industri besar. Didirikan dengan tujuan mencetak insinyur kimia handal, Teknik Kimia memiliki laboratorium-laboratorium canggih yang mendukung penelitian serta pengembangan teknologi baru di bidang kimia. Banyak alumni Teknik Kimia UNDIP yang telah berkarir di berbagai industri nasional maupun internasional.",
+        "nama_himpunan": "Himpunan Mahasiswa Teknik Kimia (HMTK)",
+        "images": "",
+        "akreditasi": "Unggul"
+    },
+    {
+        "id": 4,
+        "nama_prodi": "Teknik Mesin",
+        "tahun_berdiri": "1983",
+        "description": "Teknik Mesin UNDIP mempersiapkan mahasiswa untuk menguasai prinsip-prinsip mekanik dan termodinamika dalam aplikasi industri. Teknik Mesin memiliki fasilitas laboratorium yang lengkap untuk mendukung praktik-praktik dasar hingga lanjutan di bidang manufaktur, otomotif, dan energi. Melalui kolaborasi dengan berbagai industri, lulusan Teknik Mesin UNDIP memiliki keterampilan yang relevan dengan kebutuhan pasar kerja saat ini.",
+        "nama_himpunan": "Himpunan Mahasiswa Mesin (HMM)",
+        "images": "",
+        "akreditasi": "Unggul"
+    },
+    {
+        "id": 5,
+        "nama_prodi": "Teknik Elektro",
+        "tahun_berdiri": "1983",
+        "description": "Jurusan Teknik Elektro UNDIP berfokus pada pengembangan teknologi dan sistem kelistrikan. Didirikan untuk merespons kebutuhan industri elektronik dan telekomunikasi yang terus berkembang, Teknik Elektro menyediakan kurikulum yang mencakup sistem tenaga, elektronika, hingga teknologi informasi. Dengan fasilitas laboratorium yang modern, mahasiswa mendapatkan kesempatan untuk belajar langsung dengan teknologi terkini.",
+        "nama_himpunan": "Himpunan Mahasiswa Elektro (HME)",
+        "images": "",
+        "akreditasi": "Unggul"
+    },
+    {
+        "id": 6,
+        "nama_prodi": "Perencanaan Wilayah dan Kota",
+        "tahun_berdiri": "1992",
+        "description": "PWK UNDIP adalah jurusan yang berfokus pada perencanaan tata ruang dan pembangunan wilayah secara terpadu. Sejak awal berdirinya, PWK UNDIP telah banyak berkontribusi pada perencanaan dan pengembangan wilayah di Indonesia. Dengan memadukan teori, praktik lapangan, dan simulasi perencanaan, mahasiswa PWK dilatih untuk mengembangkan solusi yang berkelanjutan untuk permasalahan perkotaan dan perdesaan.",
+        "nama_himpunan": "Himpunan Mahasiswa Teknik Planologi (HMTP)",
+        "images": "",
+        "akreditasi": "Unggul"
+    },
+    {
+        "id": 7,
+        "nama_prodi": "Teknik Industri",
+        "tahun_berdiri": "1997",
+        "description": "Jurusan Teknik Industri di UNDIP mengajarkan keterampilan untuk merancang, memperbaiki, dan mengoptimalkan sistem industri. Mahasiswa mempelajari manajemen produksi, rekayasa kualitas, hingga analisis sistem. Melalui fasilitas laboratorium dan kerja sama dengan industri, jurusan Teknik Industri berkomitmen untuk menghasilkan lulusan yang mampu meningkatkan efisiensi dan produktivitas di dunia kerja.",
+        "nama_himpunan": "Himpunan Mahasiswa Teknik Industri",
+        "images": "",
+        "akreditasi": "Unggul"
+    },
+    {
+        "id": 8,
+        "nama_prodi": "Teknik Lingkungan",
+        "tahun_berdiri": "1999",
+        "description": "Teknik Lingkungan UNDIP bertujuan untuk mencetak ahli yang peduli terhadap lingkungan dengan kemampuan dalam manajemen dan teknologi pengolahan lingkungan. Dengan fokus pada isu-isu lingkungan seperti air bersih, pengelolaan limbah, dan mitigasi perubahan iklim, Teknik Lingkungan menyediakan fasilitas laboratorium yang memungkinkan penelitian langsung dalam pemecahan masalah lingkungan.",
+        "nama_himpunan": "Himpunan Mahasiswa Teknik Lingkungan (HMTL)",
+        "images": "",
+        "akreditasi": "Unggul"
+    },
+    {
+        "id": 9,
+        "nama_prodi": "Teknik Perkapalan",
+        "tahun_berdiri": "2002",
+        "description": "Jurusan Teknik Perkapalan UNDIP berfokus pada ilmu dan teknologi desain serta konstruksi kapal. Program ini didirikan untuk memenuhi kebutuhan industri maritim di Indonesia yang berkembang pesat. Dengan fasilitas laboratorium hidrodinamika dan simulasi kapal, mahasiswa mendapatkan pemahaman mendalam tentang teknik perkapalan, navigasi, dan keselamatan di laut.",
+        "nama_himpunan": "Himpunan Mahasiswa Perkapalan (HIMASPAL)",
+        "images": "",
+        "akreditasi": "A"
+    },
+    {
+        "id": 10,
+        "nama_prodi": "Teknik Geodesi",
+        "tahun_berdiri": "2004",
+        "description": "Teknik Geodesi UNDIP adalah jurusan yang berfokus pada pengukuran dan pemetaan bumi serta pemanfaatannya dalam berbagai bidang seperti konstruksi, agraria, dan lingkungan. Teknik Geodesi dilengkapi dengan peralatan survei dan pemetaan terkini, serta mengajarkan mahasiswa untuk menganalisis data geospasial guna mendukung pembangunan infrastruktur dan tata ruang wilayah.",
+        "nama_himpunan": "Himpunan Mahasiswa Teknik Geodesi",
+        "images": "",
+        "akreditasi": "Unggul"
+    },
+    {
+        "id": 11,
+        "nama_prodi": "Teknik Geologi",
+        "tahun_berdiri": "2004",
+        "description": "Teknik Geologi UNDIP mendalami struktur dan komposisi bumi, serta fenomena geologi yang penting bagi eksplorasi sumber daya alam. Teknik Geologi memiliki laboratorium geologi dan sering melakukan kerja lapangan untuk memberikan pengalaman langsung kepada mahasiswa. Lulusan Teknik Geologi UNDIP siap berkarir dalam bidang eksplorasi mineral, minyak, gas, dan mitigasi bencana geologi.",
+        "nama_himpunan": "HMTG MAGMADIPA",
+        "images": "",
+        "akreditasi": "Unggul"
+    },
+    {
+        "id": 12,
+        "nama_prodi": "Teknik Komputer",
+        "tahun_berdiri": "2006",
+        "description": "Teknik Komputer UNDIP mengajarkan ilmu teknologi komputer yang mencakup perangkat keras dan perangkat lunak, serta kecerdasan buatan dan jaringan komputer. Teknik Komputer didirikan untuk mencetak lulusan yang siap berkompetisi di era digitalisasi dan industri 4.0, dengan kemampuan dalam pemrograman, desain sistem, serta analisis data.",
+        "nama_himpunan": "Himpunan Mahasiswa Teknik Komputer HIMASKOM",
+        "images": "",
+        "akreditasi": "Baik Sekali"
+    }
+]
