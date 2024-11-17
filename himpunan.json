@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nama_himpunan": "Himpunan Mahasiswa Sipil (HMS)",
+        "logo_himpunan": "https://instagram.fsrg6-1.fna.fbcdn.net/v/t51.2885-19/420983918_3603095829959192_8419741903687517476_n.jpg?_nc_ht=instagram.fsrg6-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=9lo5NH9nGw4Q7kNvgEGj7Mg&_nc_gid=09bfd6f86c9147bf8db1173b75d54f81&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYBu3_9jugx2lE5ltM1madtYdnU5XV-NzCYvcAxVj9suLQ&oe=673F652F&_nc_sid=7a9f4b",
+        "deskripsi_himpunan": "HMS merupakan organisasi mahasiswa jurusan Teknik Sipil yang berperan sebagai wadah pengembangan keilmuan, minat, bakat, serta pelayanan bagi mahasiswa Teknik Sipil UNDIP. HMS aktif dalam menyelenggarakan berbagai kegiatan seperti seminar, pelatihan, dan lomba yang berhubungan dengan konstruksi, manajemen proyek, dan infrastruktur."
+    },
+    {
+        "id": 2,
+        "nama_himpunan": "HM Arsitektur Amoghasida",
+        "logo_himpunan": "https://instagram.fsrg6-1.fna.fbcdn.net/v/t51.2885-19/277820659_3091684227765887_2759751633972325322_n.jpg?_nc_ht=instagram.fsrg6-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=ULXS6MwJAmwQ7kNvgFXIKV-&_nc_gid=b0fbbacfc2f84de7a1eee059730db7fb&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYC1NbU8TlIa4xqtdxquiQGrhYgFIDuLBQ14DTzKsZGsBQ&oe=673F68D5&_nc_sid=7a9f4b",
+        "deskripsi_himpunan": "HM Arsitektur Amoghasida bertujuan mendukung kreativitas dan inovasi mahasiswa dalam bidang desain arsitektur serta perencanaan ruang. Beragam kegiatan seperti pameran karya, diskusi desain, dan kompetisi diadakan untuk mendorong mahasiswa menghasilkan karya berkualitas tinggi."
+    },
+    {
+        "id": 3,
+        "nama_himpunan": "Himpunan Mahasiswa Teknik Kimia (HMTK)",
+        "logo_himpunan": "https://instagram.fsrg6-1.fna.fbcdn.net/v/t51.2885-19/399070036_1786507865152763_7335450486258340143_n.jpg?_nc_ht=instagram.fsrg6-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=M_fwMY2o00cQ7kNvgEljSsL&_nc_gid=3259b448e2104fce85eb97a31c41f951&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYDpnqM1iE5gfxlKFogxWi1IqqIDI9mwIRBh7xV6ZvuDWg&oe=673F6C0E&_nc_sid=7a9f4b",
+        "deskripsi_himpunan": "HMTK fokus pada pengembangan kemampuan mahasiswa Teknik Kimia melalui berbagai kegiatan akademik, pelatihan, dan perlombaan. Selain itu, himpunan ini memfasilitasi pengembangan karier, khususnya di bidang industri kimia, proses, dan teknologi lingkungan."
+    },
+    {
+        "id": 4,
+        "nama_himpunan": "Himpunan Mahasiswa Mesin (HMM)",
+        "logo_himpunan": "https://instagram.fsrg6-1.fna.fbcdn.net/v/t51.2885-19/47693060_354020585416289_9123695432281620480_n.jpg?_nc_ht=instagram.fsrg6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=6ovD_4jutMsQ7kNvgFdR8Qx&_nc_gid=67c74003824e438993190fad370ac785&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYClPdDeO-m8xKBF2BB3WFfyFyQaqJZ_oGckn4zbkE35jg&oe=673F5E7F&_nc_sid=7a9f4b",
+        "deskripsi_himpunan": "HMM mendukung pengembangan keterampilan teknis dan kepemimpinan mahasiswa Teknik Mesin. Beragam program seperti workshop, kompetisi robotik, seminar teknologi, dan kegiatan lainnya secara rutin dilaksanakan untuk mendukung pengembangan keahlian teknis di bidang mekanik."
+    },
+    {
+        "id": 5,
+        "nama_himpunan": "Himpunan Mahasiswa Elektro (HME)",
+        "logo_himpunan": "https://instagram.fsrg6-1.fna.fbcdn.net/v/t51.2885-19/433075823_774390447574813_6950292251733670731_n.jpg?_nc_ht=instagram.fsrg6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=S_Z2LZYXaVEQ7kNvgFF3I4p&_nc_gid=3cfba89b34c8417abc244d65b5052951&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYB2wwKzHTSORIjwgBB8C7oChx0tO4xCjRoO1hVqXoiKkg&oe=673F63F1&_nc_sid=7a9f4b",
+        "deskripsi_himpunan": "HME memfasilitasi mahasiswa Teknik Elektro dalam pengembangan keilmuan, terutama di bidang sistem kelistrikan, kontrol, dan telekomunikasi. Program yang dilaksanakan meliputi pelatihan, kompetisi teknologi, dan kolaborasi bersama pihak industri."
+    },
+    {
+        "id": 6,
+        "nama_himpunan": "Himpunan Mahasiswa Teknik Planologi (HMTP)",
+        "logo_himpunan": "https://instagram.fsrg6-1.fna.fbcdn.net/v/t51.2885-19/56352782_2334281353270658_2262746495616811008_n.jpg?_nc_ht=instagram.fsrg6-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=y9bijHYtPusQ7kNvgFWROk_&_nc_gid=b0fdfb6b6b9d44a595ab2805eb17b26e&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYBtHDjmpZJaCbWLMQXxI7HMptZzvC4iiTzXtAlsf8zNGA&oe=673F6E50&_nc_sid=7a9f4b",
+        "deskripsi_himpunan": "HMTP menyediakan sarana pengembangan keilmuan dalam bidang perencanaan wilayah dan kota. Berbagai kegiatan seperti seminar, penelitian, dan pengabdian masyarakat di bidang tata ruang dirancang untuk meningkatkan pemahaman mahasiswa."
+    },
+    {
+        "id": 7,
+        "nama_himpunan": "Himpunan Mahasiswa Teknik Komputer HIMASKOM",
+        "logo_himpunan": "https://instagram.fsrg6-1.fna.fbcdn.net/v/t51.2885-19/164153573_270506831215116_5371914897421412774_n.jpg?_nc_ht=instagram.fsrg6-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=JXI_StDrwDQQ7kNvgE8d4fJ&_nc_gid=22f7719b223e4ca09f445de9cd0ecba4&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AYC1IxM2o3hA8vAVBaxKLIlx_qSwIsJb9XgNH4t-NZEXTQ&oe=673F85B6&_nc_sid=22de04",
+        "deskripsi_himpunan": "HIMASKOM berfokus pada pengembangan keahlian mahasiswa dalam teknologi informasi, pengembangan perangkat lunak, dan jaringan komputer. Pelatihan coding, hackathon, serta seminar terkait perkembangan teknologi terkini secara rutin dilaksanakan."
+    }
+]

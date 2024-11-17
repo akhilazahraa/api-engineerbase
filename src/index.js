@@ -57,6 +57,23 @@ app.get("/api/jurusan/:id", (req, res) => {
     })
 })
 
+app.get("/api/himpunan", (req, res) => {
+    const dataPath = path.join(__dirname, "../himpunan.json"); // path to himpunan.json file
+
+    // Read data from the file
+    fs.readFile(dataPath, "utf-8", (err, data) => {
+        if (err) {
+            return res.status(500).json({ error: "Failed to read data" });
+        }
+
+        try {
+            const himpunanData = JSON.parse(data);
+            res.json(himpunanData);
+        } catch (parseError) {
+            res.status(500).json({ error: "Failed to parse data" });
+        }
+    });
+});
 
 
 app.listen(PORT, () => {
