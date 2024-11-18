@@ -12,6 +12,8 @@ const PORT = process.env.PORT
 app.use(cors());
 app.use(express.json());
 
+// Middleware untuk melayani file statis dari folder images
+app.use('/images', express.static(path.join(__dirname, '../images')));
 
 // Endpoint to get data from data.json
 app.get("/api/jurusan", (req, res) => {
@@ -74,7 +76,6 @@ app.get("/api/himpunan", (req, res) => {
         }
     });
 });
-
 
 app.listen(PORT, () => {
     console.log("Express running on PORT:" + PORT)
