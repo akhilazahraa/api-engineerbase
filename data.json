@@ -5,7 +5,15 @@
         "tahun_berdiri": "1958",
         "description": "Jurusan Teknik Sipil adalah jurusan yang pertama di Fakultas Teknik Universitas Diponegoro dengan dosen tetap pertama adalah Prof. Ir. Sujanto Budiharso. Perkuliahan dilakukan pada sore hari meminjam sebuah gedung di sebelah barat Tugu Muda (saat ini menjadi gedung Wisma Perdamaian), kemudian pindah di Jl. MT. Haryono (dulu Jl. Mataram) No. 427 dengan menempati gedung milik Pelaksana Kuasa Perang (Pekuper) Tentara dan Teritorium IV, sebagai kampusnya.",
         "nama_himpunan": "Himpunan Mahasiswa Sipil (HMS)",
-        "images": "",
+        "images": "https://masuk-ptn.com/images/department/949225a4515325151d5e23a4d4e5bac2237e8b5b.jpg",
+        "image_list": [
+            {
+                "url": "https://example.com/image1.jpg"
+            },
+            {
+                "url": "https://example.com/image2.jpg"
+            }
+        ],
         "akreditasi": "Unggul"
     },
     {
@@ -14,7 +22,7 @@
         "tahun_berdiri": "1958",
         "description": "Jurusan Teknik Arsitektur di Fakultas Teknik UNDIP dirancang untuk menghasilkan lulusan yang kreatif dan inovatif dalam merancang bangunan dan lingkungan. Sejak berdiri, jurusan Teknik Arsitektur telah menekankan pada pendekatan yang menggabungkan estetika dan fungsi dengan pemahaman mendalam tentang lingkungan dan budaya lokal. Berlokasi di Kampus UNDIP Tembalang, Teknik Arsitektur menyediakan berbagai fasilitas studio dan laboratorium yang mendukung pembelajaran secara praktikal.",
         "nama_himpunan": "HM Arsitektur Amoghasida",
-        "images": "",
+        "images": "https://fastly.4sqi.net/img/general/600x600/94271684_dnzV1bk6O3vxwzOuijofDvCm1OZkBQBpG0ZAJh04TXA.jpg",
         "akreditasi": "Unggul"
     },
     {
@@ -23,7 +31,7 @@
         "tahun_berdiri": "1956",
         "description": "Teknik Kimia UNDIP merupakan salah satu jurusan unggulan yang fokus pada proses industri kimia, baik dari skala laboratorium hingga skala industri besar. Didirikan dengan tujuan mencetak insinyur kimia handal, Teknik Kimia memiliki laboratorium-laboratorium canggih yang mendukung penelitian serta pengembangan teknologi baru di bidang kimia. Banyak alumni Teknik Kimia UNDIP yang telah berkarir di berbagai industri nasional maupun internasional.",
         "nama_himpunan": "Himpunan Mahasiswa Teknik Kimia (HMTK)",
-        "images": "",
+        "images": "https://fastly.4sqi.net/img/general/600x600/177452510_c6iqpwAFQ9c_uQPVf_Al8s9ayo9I772lDutlTwu3TKA.jpg",
         "akreditasi": "Unggul"
     },
     {
@@ -32,7 +40,7 @@
         "tahun_berdiri": "1983",
         "description": "Teknik Mesin UNDIP mempersiapkan mahasiswa untuk menguasai prinsip-prinsip mekanik dan termodinamika dalam aplikasi industri. Teknik Mesin memiliki fasilitas laboratorium yang lengkap untuk mendukung praktik-praktik dasar hingga lanjutan di bidang manufaktur, otomotif, dan energi. Melalui kolaborasi dengan berbagai industri, lulusan Teknik Mesin UNDIP memiliki keterampilan yang relevan dengan kebutuhan pasar kerja saat ini.",
         "nama_himpunan": "Himpunan Mahasiswa Mesin (HMM)",
-        "images": "",
+        "images": "https://masuk-ptn.com/images/department/a05bf25d336a29cbd86e129c6ecff792d71024e3.jpg",
         "akreditasi": "Unggul"
     },
     {
@@ -41,7 +49,7 @@
         "tahun_berdiri": "1983",
         "description": "Jurusan Teknik Elektro UNDIP berfokus pada pengembangan teknologi dan sistem kelistrikan. Didirikan untuk merespons kebutuhan industri elektronik dan telekomunikasi yang terus berkembang, Teknik Elektro menyediakan kurikulum yang mencakup sistem tenaga, elektronika, hingga teknologi informasi. Dengan fasilitas laboratorium yang modern, mahasiswa mendapatkan kesempatan untuk belajar langsung dengan teknologi terkini.",
         "nama_himpunan": "Himpunan Mahasiswa Elektro (HME)",
-        "images": "",
+        "images": "https://elektro.ft.undip.ac.id/v3/wp-content/uploads/2023/08/kampuselektro2022.jpg",
         "akreditasi": "Unggul"
     },
     {
