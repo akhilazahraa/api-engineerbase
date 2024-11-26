@@ -40,5 +40,35 @@
         "nama_himpunan": "Himpunan Mahasiswa Teknik Komputer HIMASKOM",
         "logo_himpunan": "/images/komputer.jpg",
         "deskripsi_himpunan": "HIMASKOM berfokus pada pengembangan keahlian mahasiswa dalam teknologi informasi, pengembangan perangkat lunak, dan jaringan komputer. Pelatihan coding, hackathon, serta seminar terkait perkembangan teknologi terkini secara rutin dilaksanakan."
+    },
+    {
+        "id": 8,
+        "nama_himpunan": "Himpunan Mahasiswa Teknik Industri",
+        "logo_himpunan": "/images/industri.jpg",
+        "deskripsi_himpunan": "Himpunan Mahasiswa Teknik Industri menyediakan ruang bagi pengembangan keahlian mahasiswa dalam manajemen, produksi, dan efisiensi sistem. Pelatihan perangkat lunak, seminar manajemen operasi, dan studi kasus menjadi program yang sering dilaksanakan."
+    },
+    {
+        "id": 9,
+        "nama_himpunan": "Himpunan Mahasiswa Teknik Lingkungan (HMTL)",
+        "logo_himpunan": "/images/lingkungan.jpg",
+        "deskripsi_himpunan": "HMTL fokus pada isu lingkungan seperti pengelolaan limbah, konservasi air, dan pembangunan berkelanjutan. Berbagai program seperti penyuluhan lingkungan, penelitian, dan kampanye kesadaran masyarakat tentang lingkungan secara rutin diselenggarakan."
+    },
+    {
+        "id": 10,
+        "nama_himpunan": "Himpunan Mahasiswa Perkapalan (HIMASPAL)",
+        "logo_himpunan": "/images/kapal.jpg",
+        "deskripsi_himpunan": "HIMASPAL mendukung pengembangan kompetensi mahasiswa dalam bidang desain dan rekayasa kapal. Program unggulan meliputi pelatihan perangkat lunak desain kapal, seminar maritim, serta studi lapangan terkait industri perkapalan."
+    },
+    {
+        "id": 11,
+        "nama_himpunan": "Himpunan Mahasiswa Teknik Geodesi",
+        "logo_himpunan": "/images/geodesi.jpg",
+        "deskripsi_himpunan": "Himpunan Mahasiswa Teknik Geodesi mendukung pengembangan kemampuan di bidang pemetaan, survei, dan geospasial. Program yang dijalankan meliputi pelatihan teknologi pemetaan, aplikasi GIS, dan pengabdian masyarakat terkait pemetaan wilayah."
+    },
+    {
+        "id": 12,
+        "nama_himpunan": "HMTG MAGMADIPA",
+        "logo_himpunan": "/images/geologi.jpg",
+        "deskripsi_himpunan": "HMTG MAGMADIPA mendukung pengembangan wawasan mahasiswa Teknik Geologi dalam bidang ilmu kebumian, seperti geologi lingkungan, eksplorasi, dan mitigasi bencana. Ekskursi geologi, penelitian lapangan, serta seminar kebumian menjadi bagian dari kegiatan yang dilaksanakan."
     }
 ]
